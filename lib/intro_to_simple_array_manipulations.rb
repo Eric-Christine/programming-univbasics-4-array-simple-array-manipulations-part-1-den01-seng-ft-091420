@@ -16,8 +16,8 @@
 
   def using_pop()
     continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"] 
-    new_neighborhood = ["Staten Island"]
-    updated_array = continents.pop()
+    deleted_string = continents.pop()
+    
     binding.pry
   end
   

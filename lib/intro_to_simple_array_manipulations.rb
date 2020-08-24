@@ -18,6 +18,7 @@
     continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"] 
     new_neighborhood = ["Staten Island"]
     updated_array = continents.pop(new_neighborhood)
+    binding.pry
   end
   
   def pop_with_args()

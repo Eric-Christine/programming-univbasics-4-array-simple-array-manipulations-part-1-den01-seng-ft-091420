@@ -18,7 +18,8 @@
     continents.pop()
   end
   
-  def pop_with_args()
+  def pop_with_args(arg1, arg2)
+    
     
   end
   

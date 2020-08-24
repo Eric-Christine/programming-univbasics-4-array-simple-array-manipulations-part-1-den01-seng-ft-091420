@@ -19,7 +19,7 @@
   end
   
   def pop_with_args(dog_breeds)
-    dog_breeds.pop(small_dogs)
+    dog_breeds.pop()
     binding.pry
     
   end

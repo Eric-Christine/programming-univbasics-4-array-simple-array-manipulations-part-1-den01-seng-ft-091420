@@ -18,8 +18,8 @@
     continents.pop()
   end
   
-  def pop_with_args(arg1, arg2)
-    
+  def pop_with_args(dog_breeds)
+    dog_breeds.pop()
     
   end
   
